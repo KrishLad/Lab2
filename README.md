@@ -65,7 +65,6 @@ to review and approve our changes before we commit and push our changes to the m
 our remote repository, since everything we just did was local. We'll explore how to do precisely
 that by pushing our branch to our remote repository and making a pull request shortly, but first,
 we'll talk about merge conflicts and how to resolve them.
-
 Tip: In the Git tool window, you can open the `Console` tab to see the underlying git commands it
 is performing when you ask IntelliJ to perform various git operations for you.
 
